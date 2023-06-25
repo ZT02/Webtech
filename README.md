@@ -1,2 +1,2 @@
 # Webtech
-HTML Portfolio Projekt. Hinweis: Öffnen Sie zu test\4. Termin\meinCss\Portfolio.html
+HTML Portfolio Projekt. Hinweis: Öffnen Sie test\4. Termin\meinCss\Portfolio.html
