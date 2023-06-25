@@ -1,0 +1,32 @@
+.titlekomp
+ {
+    box-sizing: content-box;
+    font-size: 3.5vh;
+    margin:0;
+    padding: 1.5vh 0 1.5vh 1vh;
+    display: flex;
+    font-weight: bold;
+    color:#EAEBEB;
+    background-color: #48564E;
+    margin-bottom: 3vh;
+}
+
+.angabepersonal {
+    border-top: none;
+    border-bottom: 0.5vh solid #D80030;
+    margin-bottom: 4vh;
+}
+
+div section ul:last-child {
+    padding-bottom: 2vh;
+    
+}
+
+
+div[id^="pers"] {
+    display: none
+}
+
+footer {
+    margin-top: 4vh;
+}
